@@ -109,7 +109,7 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: 5px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -117,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $serif;
+  font-family: $serif-Times;
   font-size: $type-size-5;
 }
 
