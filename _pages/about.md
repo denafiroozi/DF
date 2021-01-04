@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 <style type="text/css">
+  div {
+  text-align: justify;
+  text-justify: inter-word;
+}
   body{
   font-size: 13.5pt;
   font-family: times, serif;
