@@ -6,7 +6,7 @@ author_profile: true
 
 <style type="text/css">
   body{
-  font-size: 12pt;
+  font-size: 13pt;
   font-family: times, serif;
 }
 </style>
