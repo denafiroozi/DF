@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style type="text/css">
+  body{
+  font-size: 12pt;
+  font-family: times, serif;
+}
+</style>
+
 <body>
 <p style="margin-bottom:0.7cm;">    </p>
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
