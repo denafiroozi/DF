@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Dena Firoozi"
   avatar           : "profile.png"
-  bio              : "Assistant Professor \n HEC Montreal"
+  bio              : "Assistant Professor 
+                      HEC Montreal"
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
