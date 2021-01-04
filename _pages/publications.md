@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <style type="text/css">
+  div {
+  text-align: justify;
+  text-justify: inter-word;
+}
   body{
   font-size: 13pt;
   font-family: times, serif;
