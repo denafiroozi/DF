@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "l"
 collection: publications
 permalink: /publication/Paper1 
 citation: "Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach"
