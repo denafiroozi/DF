@@ -2,7 +2,7 @@
 ---
 title: 
 collection: publications
-permalink: /publications/Paper1
+permalink: /publication/Paper1
 excerpt: 
 date:
 venue: 
