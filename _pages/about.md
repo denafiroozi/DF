@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About Me"
@@ -8,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <style type="text/css">
   body{
   font-size: 14pt;
