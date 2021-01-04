@@ -8,3 +8,4 @@ citation: "Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty
 <!---[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
 <!---Recommended citation: -->
 
+This is frastrating
