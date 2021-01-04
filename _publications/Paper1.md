@@ -1,6 +1,6 @@
 <!---**Under Review Papers and Pre-prints-->
 ---
-title: 
+title: " "
 collection: publications
 permalink: /publication/Paper1
 excerpt: 
