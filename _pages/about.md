@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an Assistant Professor in the Department of Decision Sciences at HEC Montréal (business school of University of Montreal). Before joining HEC Montréal, I was a postdoctoral fellow in the Department of Statistical Sciences at the University of Toronto, Canada, between 2018-2020, where I worked with Prof. [Sebastian Jaimungal](http://sebastian.statistics.utoronto.ca/) in the mathematical finance program. I was also a PhD exchange student in the same program during Fall 2017.  I completed my Ph.D. in electrical engineering under the supervision of [Prof. Peter E. Caines](http://www.cim.mcgill.ca/~peterc/) in the systems & control program at McGill University, Canada, in 2019. I received my M.Sc. degree from Sharif University of Technology, Iran, in 2011, and my B.Sc. degree from Shiraz University, Iran, in 2009, both in electrical engineering- systems & control.
+
+My research interests are mathematical finance, mean field games, stochastic control, and estimation theory. 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
