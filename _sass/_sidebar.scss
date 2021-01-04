@@ -31,7 +31,8 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $serif;
+//     font-family: $sans-serif-narrow;
   }
 
   h3, h4 {
@@ -103,8 +104,8 @@
   @include breakpoint($large) {
     display: block;
     width: 200%;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
