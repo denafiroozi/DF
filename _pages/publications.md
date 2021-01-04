@@ -7,7 +7,7 @@ author_profile: true
 <body>
 <p style="margin-bottom:0.7cm;">    </p>
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
-<p style="margin-bottom:0.7cm;">    </p>
+<p style="margin-bottom:0.5cm;">    </p>
   
 <p> 5. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, available on <a href=""> arXiv</a></p>
 
@@ -19,8 +19,9 @@ author_profile: true
 
 <p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes, submitted July 2019, available on <a href="https://arxiv.org/abs/1809.07865">arXiv</a> </p>
 
+<p style="margin-bottom:1cm;">    </p>
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
-<p style="margin-bottom:0.7cm;">    </p>
+<p style="margin-bottom:0.5cm;">    </p>
 
 <p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, (to appear) IEEE Transactions on Automatic Control. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
 
@@ -32,8 +33,9 @@ author_profile: true
 
 <p> 1. Dena Firoozi and Mehrzad Namvar, Analysis of Gyro Noise in Nonlinear Attitude Estimation using a Single Vector Measurement, IET Control Theory and Applications, 6(14), pp. 2226-2234, 2012. <a href="https://ieeexplore.ieee.org/document/6401234">[article]</a></p>
 
+<p style="margin-bottom:1cm;"> </p>
 <b> <font size="+1.5"> Peer-Reviewed Conference Papers </font></b>
-<p style="margin-bottom:0.7cm;">    </p>
+<p style="margin-bottom:0.5cm;">    </p>
 
 <p> 8. Dena Firoozi, and Peter E. Caines, Belief Estimation by Agents in Major Minor LQG Mean Field Games, Proceedings of the 58th IEEE Conference on Decision and Control (CDC 2019), Nice, France, pp. 1615-1622, December 2019. <a href="https://ieeexplore.ieee.org/document/9029322">[article]</a></p>
 
