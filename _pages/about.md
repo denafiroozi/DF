@@ -9,8 +9,8 @@ redirect_from:
 ---
 <style type="text/css">
   body{
-  font-size: 12pt;
-  font-family: $serif;
+  font-size: 14pt;
+  font-family: times, serif;
 }
 </style>
 
