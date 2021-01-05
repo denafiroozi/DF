@@ -86,9 +86,8 @@ author:
                       Assistant Professor <br>
                       Department of Decision Sciences <br>
                       HEC Montréal - Université de Montréal <br>
-#   bio              : "Assistant Professor"
-#   bio2             : "Department of Decision Sciences"
-#   bio3             : "HEC Montréal - Université de Montréal"
+  bio2             : 
+  bio3             : 
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
