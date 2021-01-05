@@ -20,7 +20,7 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
   
-<p> 5. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, available on <a href=""> arXiv</a></p>
+<p> 5. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 4. Dena Firoozi, and Sebastian Jaimungal, Exploratory LQG Mean Field Games with Entropy Regularization, submitted December 2020, available on <a href="https://arxiv.org/abs/2011.12946"> arXiv</a></p>
