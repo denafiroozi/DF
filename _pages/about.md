@@ -13,6 +13,18 @@ redirect_from:
   text-align: justify;
   text-justify: inter-word;
 }
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-10M5NMRXL0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-10M5NMRXL0');
+</script>
+</head>
+  
   body{
   font-size: 13.5pt;
   font-family: times, serif;
