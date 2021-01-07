@@ -7,12 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<style type="text/css">
-  div {
-  text-align: justify;
-  text-justify: inter-word;
-}
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-10M5NMRXL0"></script>
@@ -24,6 +18,13 @@ redirect_from:
   gtag('config', 'G-10M5NMRXL0');
 </script>
 </head>
+
+<style type="text/css">
+  div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
   
   body{
   font-size: 13.5pt;
