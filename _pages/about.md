@@ -37,5 +37,5 @@ I am an Assistant Professor in the Department of Decision Sciences at HEC Montr√
   
 <p style="margin-bottom:0.3cm;">    </p>
   
-My research interests are mathematical finance, mean field games, stochastic control, and estimation theory. 
+My research interests are mathematical finance, mean field games, stochastic control, and estimation. 
 </body>
