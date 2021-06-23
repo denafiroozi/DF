@@ -49,7 +49,7 @@ author_profile: true
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, (to appear) IEEE Transactions on Automatic Control, vol. 66, no. 6, pp. 2778-2786, June 2021, doi: 10.1109/TAC.2020.3010129. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
+<p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, IEEE Transactions on Automatic Control, vol. 66, no. 6, pp. 2778-2786, June 2021, doi: 10.1109/TAC.2020.3010129. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 3. Dena Firoozi, Sebastian Jaimugal, and Peter E. Caines, Convex Analysis for LQG Systems with Applications to Major Minor LQG Mean Field Game Systems, (to appear) Systems & Control Letters.
