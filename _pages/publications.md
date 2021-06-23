@@ -34,22 +34,22 @@ author_profile: true
 <p> 5. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2020, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 4. Dena Firoozi, and Sebastian Jaimungal, Exploratory LQG Mean Field Games with Entropy Regularization, submitted December 2020, available on <a href="https://arxiv.org/abs/2011.12946"> arXiv</a></p>
+<p> 4. Dena Firoozi, and Sebastian Jaimungal, Exploratory LQG Mean Field Games with Entropy Regularization, submitted December 2020, accepted subject to revisions June 2021, available on <a href="https://arxiv.org/abs/2011.12946"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 3. Dena Firoozi, Ali Pakniyat, and Peter E. Caines, A Hybrid Optimal Control Approach to LQG Mean Field Games with Switching and Stopping Strategies, submitted October 2020, available on <a href=" https://arxiv.org/abs/1810.02920"> arXiv</a></p>
+<p> 3. Dena Firoozi, Ali Pakniyat, and Peter E. Caines, A Hybrid Optimal Control Approach to LQG Mean Field Games with Switching and Stopping Strategies, submitted October 2020, accepted subject to revisions March 2021, available on <a href=" https://arxiv.org/abs/1810.02920"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 2. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, submitted May 2020, available on <a href="https://arxiv.org/abs/2003.04938">arXiv</a></p>
+<p> 2. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, submitted May 2020, accepted subject to revisions February 2021, available on <a href="https://arxiv.org/abs/2003.04938">arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes, submitted July 2019, available on <a href="https://arxiv.org/abs/1809.07865">arXiv</a> </p>
+<p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes, available on <a href="https://arxiv.org/abs/1809.07865">arXiv</a> </p>
 
 <p style="margin-bottom:1cm;">    </p>
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, (to appear) IEEE Transactions on Automatic Control. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
+<p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, (to appear) IEEE Transactions on Automatic Control, vol. 66, no. 6, pp. 2778-2786, June 2021, doi: 10.1109/TAC.2020.3010129. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 3. Dena Firoozi, Sebastian Jaimugal, and Peter E. Caines, Convex Analysis for LQG Systems with Applications to Major Minor LQG Mean Field Game Systems, (to appear) Systems & Control Letters.
