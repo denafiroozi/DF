@@ -33,7 +33,7 @@ redirect_from:
 </style>
 
 <body>
-<p>I am an Assistant Professor in the Department of Decision Sciences at HEC Montréal (business school of University of Montreal). I am currently the academic advisor of the MSc program in financial engineering which is offered in two languages: English and French.</p> 
+<p>I am an Assistant Professor in the Department of Decision Sciences at HEC Montréal (business school of University of Montreal). I am currently the academic director of the MSc program in financial engineering at HEC, which is offered in English and French languages.</p> 
   
 <p>Before joining HEC Montréal, I was a postdoctoral fellow in the Department of Statistical Sciences at the University of Toronto, Canada, between 2018-2020, where I worked with <a href="http://sebastian.statistics.utoronto.ca/"> Prof. Sebastian Jaimungal</a> in the mathematical finance program. I was also a PhD exchange student in the same program during Fall 2017.  I completed my PhD in electrical engineering under the supervision of <a href="http://www.cim.mcgill.ca/~peterc/"> Prof. Peter E. Caines</a> in the systems & control program at McGill University, Canada, in 2019. I received my MSc degree from Sharif University of Technology, Iran, in 2011, and my BSc degree from Shiraz University, Iran, in 2009, both in electrical engineering- systems & control.</p>
   
