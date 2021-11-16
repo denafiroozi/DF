@@ -43,7 +43,7 @@ author_profile: true
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
   
-<p> 6. Dena Firoozi, Ali Pakniyat, and Peter E. Caines, A Hybrid Optimal Control Approach to LQG Mean Field Games with Switching and Stopping Strategies, submitted October 2020, accepted subject to revisions March 2021, available on <a href=" https://arxiv.org/abs/1810.02920"> arXiv</a></p>
+<p> 6. Dena Firoozi, Ali Pakniyat, and Peter E. Caines, A Hybrid Optimal Control Approach to LQG Mean Field Games with Switching and Stopping Strategies, (to appear) Automatica, available on <a href=" https://arxiv.org/abs/1810.02920"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
  <p> 5. Dena Firoozi, and Sebastian Jaimungal, Exploratory LQG Mean Field Games with Entropy Regularization, (to appear) Automatica, available on <a href="https://arxiv.org/abs/2011.12946"> arXiv</a></p>
