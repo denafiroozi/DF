@@ -31,13 +31,12 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
   
-<p> 3. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2020, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
+<p> 2. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2020, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 2. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, submitted May 2020, accepted subject to revisions February 2021, available on <a href="https://arxiv.org/abs/2003.04938">arXiv</a></p>
+<p> 1. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, submitted May 2020, accepted subject to revisions February 2021, available on <a href="https://arxiv.org/abs/2003.04938">arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes, available on <a href="https://arxiv.org/abs/1809.07865">arXiv</a> </p>
 
 <p style="margin-bottom:1cm;">    </p>
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
@@ -61,6 +60,12 @@ author_profile: true
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 1. Dena Firoozi and Mehrzad Namvar, Analysis of Gyro Noise in Nonlinear Attitude Estimation using a Single Vector Measurement, IET Control Theory and Applications, 6(14), pp. 2226-2234, 2012. <a href="https://ieeexplore.ieee.org/document/6401234">[article]</a></p>
+  
+ <p style="margin-bottom:1cm;">    </p>
+<b> <font size="+1.5"> Working Journal Papers  </font></b>
+<p style="margin-bottom:0.5cm;">    </p>
+  
+ <p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes, available on <a href="https://arxiv.org/abs/1809.07865">arXiv</a> </p>
 
 <p style="margin-bottom:1cm;"> </p>
 <b> <font size="+1.5"> Peer-Reviewed Conference Papers </font></b>
