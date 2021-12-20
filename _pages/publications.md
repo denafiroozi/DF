@@ -61,7 +61,7 @@ author_profile: true
 
 <p> 1. Dena Firoozi and Mehrzad Namvar, Analysis of Gyro Noise in Nonlinear Attitude Estimation using a Single Vector Measurement, IET Control Theory and Applications, 6(14), pp. 2226-2234, 2012. <a href="https://ieeexplore.ieee.org/document/6401234">[article]</a></p>
   
- <p style="margin-bottom:1cm;">    </p>
+<p style="margin-bottom:1cm;">    </p>
 <b> <font size="+1.5"> Working Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
   
