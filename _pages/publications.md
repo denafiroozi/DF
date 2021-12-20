@@ -65,7 +65,7 @@ author_profile: true
 <b> <font size="+1.5"> Working Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
   
-<p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes, <!available on <a href="https://arxiv.org/abs/1809.07865">arXiv</a> > </p>
+<p> 1. Dena Firoozi, Peter E. Caines, and Sebastian Jaimungal, Mean Field Game Systems with Common Noise and Markovian Latent Processes </p>
 
 <p style="margin-bottom:1cm;"> </p>
 <b> <font size="+1.5"> Peer-Reviewed Conference Papers </font></b>
