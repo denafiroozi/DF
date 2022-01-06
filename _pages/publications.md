@@ -31,16 +31,20 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
   
-<p> 2. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2020, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
+<p> 2. Arvind Shrivats, Dena Firoozi, Sebastian Jaimungal, Principal agent mean field games in REC markets, available on <a href="https://arxiv.org/abs/2112.11963"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 1. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, submitted May 2020, accepted subject to revisions February 2021, available on <a href="https://arxiv.org/abs/2003.04938">arXiv</a></p>
+<p> 1. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2020, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 
 <p style="margin-bottom:1cm;">    </p>
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
+
+<p> 7. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, (to appear) Mathematical Finance, available on <a href="https://arxiv.org/abs/2003.04938">arXiv</a></p>
+<p style="margin-bottom:-0.3cm;">  </p>
+
   
 <p> 6. Dena Firoozi, Ali Pakniyat, and Peter E. Caines, A Hybrid Optimal Control Approach to LQG Mean Field Games with Switching and Stopping Strategies, (to appear) Automatica, available on <a href=" https://arxiv.org/abs/1810.02920"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
