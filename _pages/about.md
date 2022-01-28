@@ -39,5 +39,5 @@ redirect_from:
   
 <p style="margin-bottom:0.3cm;">    </p>
   
-My research interests are mathematical finance, mean field games, stochastic control, and estimation. 
+My research interests are in mathematical finance, mean field games, and stochastic control. 
 </body>
