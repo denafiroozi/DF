@@ -85,15 +85,14 @@ author:
   bio              : |
                       Assistant Professor <br>
                       Department of Decision Sciences <br>
-                      HEC Montréal - Université de Montréal <br>
-                      Email: dena[dot]firoozi[at]hec[dot]ca <br>
+                      HEC Montréal - Université de Montréal <br>                     
   bio2             : <br>
   bio3             : 
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=weHKFEYAAAAJ&hl=en"
-  email            : dena[dot]firoozi[at]hec[dot]ca <br>
+  email            : "dena[dot]firoozi[at]hec[dot]ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
