@@ -43,5 +43,5 @@ My research interests include stochastic control and mean field games, and their
 
  <p style="margin-bottom:0.3cm;">    </p>
   
-If you are interested in my reseach area and wish to pursue graduate studies, you may send me your CV via email at dena[.]Firoozi[at]hec[.]ca. 
+If you are interested in my reseach area and wish to pursue graduate studies, you may send me your CV via email at dena[.]firoozi[at]hec[.]ca. 
 </body>
