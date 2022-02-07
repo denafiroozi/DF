@@ -39,5 +39,5 @@ redirect_from:
   
 <p style="margin-bottom:0.3cm;">    </p>
   
-My research interests are in mathematical finance, mean field games, and stochastic control. 
+My research interests include mathematical finance, mean field games, and stochastic control, and their application in finance. In particular, I am interested in modeling energy and financial markets as large-population dynamic games and addressing problems such as optimal trading, systemic risk, equilibrium pricing, and contract design.
 </body>
