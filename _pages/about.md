@@ -43,7 +43,7 @@ redirect_from:
 
  <p style="margin-bottom:0.3cm;">    </p>
   
-<p>If you are interested in my reseach area and wish to pursue graduate studies under my supervision, you may send me your CV via email. </p>
+<p>If you are interested in my reseach area and wish to pursue graduate studies under my supervision, you may send me your CV and transcripts via email. </p>
   
   
 </body>
