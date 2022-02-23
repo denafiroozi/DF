@@ -49,18 +49,18 @@ author_profile: true
 <p> 6. Dena Firoozi, Ali Pakniyat, and Peter E. Caines, A Hybrid Optimal Control Approach to LQG Mean Field Games with Switching and Stopping Strategies, (to appear) Automatica, available on <a href=" https://arxiv.org/abs/1810.02920"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
- <p> 5. Dena Firoozi, and Sebastian Jaimungal, Exploratory LQG Mean Field Games with Entropy Regularization, (to appear) Automatica, available on <a href="https://arxiv.org/abs/2011.12946"> arXiv</a></p>
-<p style="margin-bottom:-0.3cm;">    </p>
+ <p> 5. Dena Firoozi, and Sebastian Jaimungal, Exploratory LQG Mean Field Games with Entropy Regularization, Automatica, <a href="https://www.sciencedirect.com/science/article/pii/S000510982200022X?dgcid=author">[article]</a> <a href="https://arxiv.org/abs/2011.12946"> arXiv</a></p>
+<p style="margin-bottom:-0.3cm;"> </p>
   
-<p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, IEEE Transactions on Automatic Control, vol. 66, no. 6, pp. 2778-2786, June 2021, doi: 10.1109/TAC.2020.3010129. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
+<p> 4. Dena Firoozi and Peter E. Caines,	&epsilon;-Nash Equilibria for Major Minor LQG Mean Field Games with Partial Observations of All Agents, IEEE Transactions on Automatic Control, vol. 66, no. 6, pp. 2778-2786, 2021, doi: 10.1109/TAC.2020.3010129. <a href="https://ieeexplore.ieee.org/document/9143406">[article]</a><a href="https://arxiv.org/abs/1810.04369">[arXiv]</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 3. Dena Firoozi, Sebastian Jaimugal, and Peter E. Caines, Convex Analysis for LQG Systems with Applications to Major Minor LQG Mean Field Game Systems, (to appear) Systems & Control Letters.
+<p> 3. Dena Firoozi, Sebastian Jaimugal, and Peter E. Caines, Convex Analysis for LQG Systems with Applications to Major Minor LQG Mean Field Game Systems, Systems & Control Letters, vol. 142, 2020,
 <a href="https://www.sciencedirect.com/science/article/pii/S0167691120301158">[article]</a><a href="https://arxiv.org/abs/1810.07551">[arXiv]</a>
 </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 2. Dena Firoozi and Peter E. Caines, The Execution Problem in Finance with Major and Minor Traders: A Mean Field Game Formulation, Advances in Dynamic and Mean Field Games: Theory, Applications, and Numerical Methods, 15, pp. 107-130, 2017. <a href="https://link.springer.com/chapter/10.1007/978-3-319-70619-1_5">[article]</a> </p>
+<p> 2. Dena Firoozi and Peter E. Caines, The Execution Problem in Finance with Major and Minor Traders: A Mean Field Game Formulation, Advances in Dynamic and Mean Field Games: Theory, Applications, and Numerical Methods, vol. 15, pp. 107-130, 2017. <a href="https://link.springer.com/chapter/10.1007/978-3-319-70619-1_5">[article]</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 1. Dena Firoozi and Mehrzad Namvar, Analysis of Gyro Noise in Nonlinear Attitude Estimation using a Single Vector Measurement, IET Control Theory and Applications, 6(14), pp. 2226-2234, 2012. <a href="https://ieeexplore.ieee.org/document/6401234">[article]</a></p>
