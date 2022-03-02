@@ -34,7 +34,7 @@ author_profile: true
 <p> 2. Arvind Shrivats, Dena Firoozi, Sebastian Jaimungal, Principal agent mean field games in REC markets, available on <a href="https://arxiv.org/abs/2112.11963"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 1. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2020, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
+<p> 1. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, submitted February 2021, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 
