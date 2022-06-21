@@ -42,7 +42,7 @@ author_profile: true
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> 7. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, Mathematical Finance, 2022, doi: 10.1111/mafi.12345. <a href="http://doi.org/10.1111/mafi.12345">[article]</a> <a href="https://arxiv.org/abs/2003.04938">[arXiv]</a></p>
+<p> 7. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal,  A Mean-Field Game Approach to Equilibrium Pricing, Optimal Generation, and Trading in Solar Renewable Energy Certificate (SREC) Markets, Mathematical Finance, vol. 32, no. 3, pp. 779-824, 2022, doi: 10.1111/mafi.12345. <a href="http://doi.org/10.1111/mafi.12345">[article]</a> <a href="https://arxiv.org/abs/2003.04938">[arXiv]</a></p>
 <p style="margin-bottom:-0.3cm;">  </p>
 
   
