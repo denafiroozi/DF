@@ -186,7 +186,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research team:
+  research-team:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -232,10 +232,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research team
+  # _research-team
   - scope:
       path: ""
-      type: research team
+      type: research-team
     values:
       layout: single
       author_profile: true
