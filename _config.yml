@@ -232,10 +232,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research team
   - scope:
       path: ""
-      type: portfolio
+      type: research team
     values:
       layout: single
       author_profile: true
