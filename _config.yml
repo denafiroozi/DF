@@ -186,7 +186,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research team:
     output: true
     permalink: /:collection/:path/
   talks:
