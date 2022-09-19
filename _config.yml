@@ -186,7 +186,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research-team:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -235,7 +235,7 @@ defaults:
   # _research-team
   - scope:
       path: ""
-      type: research-team
+      type: portfolio
     values:
       layout: single
       author_profile: true
