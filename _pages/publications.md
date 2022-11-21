@@ -44,7 +44,7 @@ author_profile: true
 <p> 8. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal, A mean-field game approach to equilibrium pricing in solar renewable energy certificate markets, Mathematical Finance, vol. 32, no. 3, pp. 779-824, 2022, doi: 10.1111/mafi.12345. <a href="http://doi.org/10.1111/mafi.12345">[article]</a> <a href="https://arxiv.org/abs/2003.04938">[arXiv]</a></p>
 <p style="margin-bottom:-0.3cm;">  </p>
   
-<p> 7. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, (to appear) Automatica, 2022, available on <a href="https://arxiv.org/abs/2012.04866"> arXiv</a></p>
+<p> 7. Dena Firoozi, LQG Mean Field Games with a Major Agent: Nash Certainty Equivalence versus Probabilistic Approach, Automatica, vol. 146, pp. 110559, 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109822004204">[article]</a> <a href="https://arxiv.org/abs/2012.04866">[arXiv]</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
   
