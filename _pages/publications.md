@@ -30,6 +30,12 @@ author_profile: true
 <p style="margin-bottom:0.7cm;">    </p>
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
+
+<p> Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Mean Field Games with a Major Agent: A Variational Approach, available on <a href="https://arxiv.org/abs/2305.15364"> arXiv</a>, 2023</p>
+<p style="margin-bottom:-0.3cm;">    </p>
+  
+<p> Yuanyuan Chang, Dena Firoozi, David Benatia, Large Banks and Systemic Risk: Insights from a Mean-Field Game Model, available on <a href="https://arxiv.org/abs/2305.17830"> arXiv</a>, 2023</p>
+<p style="margin-bottom:-0.3cm;">    </p>
   
 <p> Arvind Shrivats, Dena Firoozi, Sebastian Jaimungal, Principal agent mean field games in REC markets, available on <a href="https://arxiv.org/abs/2112.11963"> arXiv</a>, submitted October 2022</p>
 <p style="margin-bottom:-0.3cm;">    </p>
