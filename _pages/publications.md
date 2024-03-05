@@ -31,7 +31,7 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> Hanchao Liu, Dena Firoozi, Hilbert Space-Valued LQG Mean Field Games: An Infinite-Dimensional Analysis, available on <a href="[https://arxiv.org/abs/2305.15364](https://arxiv.org/abs/2403.01012)"> arXiv</a>, 2024</p>
+<p> Hanchao Liu, Dena Firoozi, Hilbert Space-Valued LQG Mean Field Games: An Infinite-Dimensional Analysis, available on <a href="[https://arxiv.org/abs/2403.01012](https://arxiv.org/abs/2403.01012)"> arXiv</a>, 2024</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Single-Agent and Major-Minor Mean Field Game Systems: A Variational Framework, available on <a href="https://arxiv.org/abs/2305.15364"> arXiv</a>, 2023</p>
