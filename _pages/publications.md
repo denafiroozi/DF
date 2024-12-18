@@ -47,7 +47,7 @@ author_profile: true
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> 9. Yuanyuan Chang, Dena Firoozi, David Benatia, Large Banks and Systemic Risk: Insights from a Mean-Field Game Model, (to appear) Journal of Systems Science &#38 Complexity (Special issue in honor of Peter E. Caines 80th birthday.), 2024, available on <a href="https://arxiv.org/abs/2305.17830">[arXiv]</a>, 2023</p>
+<p> 9. Yuanyuan Chang, Dena Firoozi, David Benatia, Large Banks and Systemic Risk: Insights from a Mean-Field Game Model, (to appear) Journal of Systems Science & Complexity (Special issue in honor of Peter E. Caines 80th birthday.), 2024, available on <a href="https://arxiv.org/abs/2305.17830">[arXiv]</a>, 2023</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 8. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal, A mean-field game approach to equilibrium pricing in solar renewable energy certificate markets, Mathematical Finance, vol. 32, no. 3, pp. 779-824, 2022, doi: 10.1111/mafi.12345. <a href="http://doi.org/10.1111/mafi.12345">[article]</a> <a href="https://arxiv.org/abs/2003.04938">[arXiv]</a></p>
