@@ -40,7 +40,7 @@ author_profile: true
 <p> Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Single-Agent and Major-Minor Mean Field Game Systems: A Variational Framework, available on <a href="https://arxiv.org/abs/2305.15364"> arXiv</a>, 2023</p>
 <p style="margin-bottom:-0.3cm;">    </p>
   
-<p> Arvind Shrivats, Dena Firoozi, Sebastian Jaimungal, Principal agent mean field games in REC markets, available on <a href="https://arxiv.org/abs/2112.11963"> arXiv</a>, submitted October 2022</p>
+<p> Arvind Shrivats, Dena Firoozi, Sebastian Jaimungal, Principal agent mean field games in REC markets, available on <a href="https://arxiv.org/abs/2112.11963"> arXiv</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p style="margin-bottom:1cm;">    </p>
