@@ -34,9 +34,6 @@ author_profile: true
 <p> Xin Yue Ren and Dena Firoozi, Risk-Sensitive Mean Field Games with Common Noise: A Theoretical Study with Applications to Interbank Markets, available on <a href="https://arxiv.org/abs/2403.03915"> arXiv</a>, 2024</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Single-Agent and Major-Minor Mean Field Game Systems: A Variational Framework, available on <a href="https://arxiv.org/abs/2305.15364"> arXiv</a>, 2023</p>
-<p style="margin-bottom:-0.3cm;">    </p>
-  
 <p> Arvind Shrivats, Dena Firoozi, Sebastian Jaimungal, Principal agent mean field games in REC markets, available on <a href="https://arxiv.org/abs/2112.11963"> arXiv</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
@@ -44,7 +41,10 @@ author_profile: true
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> 18. Hanchao Liu and Dena Firoozi, Hilbert Space-Valued LQG Mean Field Games: An Infinite-Dimensional Analysis, (to appear) SIAM Journal on Control and Optimization (SICON), 2025. <a href="https://arxiv.org/abs/2403.01012"> arXiv</a> </p>
+<p> 19. Hanchao Liu and Dena Firoozi, Hilbert Space-Valued LQG Mean Field Games: An Infinite-Dimensional Analysis, (to appear) SIAM Journal on Control and Optimization (SICON), 2025. <a href="https://arxiv.org/abs/2403.01012"> arXiv</a> </p>
+<p style="margin-bottom:-0.3cm;">    </p>
+
+<p> 18. Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Single-Agent and Major-Minor Mean Field Game Systems: A Variational Framework, (to appear) SIAM Journal on Control and Optimization (SICON), 2025. <a href="https://arxiv.org/abs/2305.15364"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 17. Yuanyuan Chang, Dena Firoozi, David Benatia, Large Banks and Systemic Risk: Insights from a Mean-Field Game Model, (to appear) Journal of Systems Science & Complexity (special issue in honor of Peter E. Caines 80th birthday.), 2024. <a href="https://arxiv.org/abs/2305.17830">[arXiv]</a></p>
