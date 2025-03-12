@@ -47,7 +47,7 @@ author_profile: true
 <p> 18. Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Single-Agent and Major-Minor Mean Field Game Systems: A Variational Framework, (to appear) SIAM Journal on Control and Optimization (SICON), 2025. <a href="https://arxiv.org/abs/2305.15364"> arXiv</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> 17. Yuanyuan Chang, Dena Firoozi, David Benatia, Large Banks and Systemic Risk: Insights from a Mean-Field Game Model, (to appear) Journal of Systems Science & Complexity (special issue in honor of Peter E. Caines 80th birthday.), 2024. <a href="https://arxiv.org/abs/2305.17830">[arXiv]</a></p>
+<p> 17. Yuanyuan Chang, Dena Firoozi, David Benatia, Large Banks and Systemic Risk: Insights from a Mean-Field Game Model, (to appear) Journal of Systems Science & Complexity (special issue in honor of Peter E. Caines 80th birthday), 2024. <a href="https://arxiv.org/abs/2305.17830">[arXiv]</a></p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 16. Arvind Shrivats, Dena Firoozi, and Sebastian Jaimungal, A mean-field game approach to equilibrium pricing in solar renewable energy certificate markets, Mathematical Finance, vol. 32, no. 3, pp. 779-824, 2022, doi: 10.1111/mafi.12345. <a href="http://doi.org/10.1111/mafi.12345">[article]</a> <a href="https://arxiv.org/abs/2003.04938">[arXiv]</a></p>
