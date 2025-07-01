@@ -33,7 +33,9 @@ redirect_from:
 </style>
 
 <body>
-<p>I am an Assistant Professor of Financial Engineering in the Department of Decision Sciences at HEC Montréal (business school of University of Montreal). I am currently the academic director of the <a href="https://www.hec.ca/en/programs/masters/master-financial-engineering/"> MSc program in financial engineering</a> at HEC, which is offered in English and French languages. I am also an Associate Editor for <a href="https://www.sciencedirect.com/journal/automatica"> Automatica</a> and the <a href="https://academic.oup.com/imamci"> IMA Journal of Mathematical Control and Information</a>. </p> 
+<p>I am an Assistant Professor of Mathematical Finance in the Department of Statistical Sciences at the University of Toronto. I am also an Associate Editor for <a href="https://www.sciencedirect.com/journal/automatica"> Automatica</a> and the <a href="https://academic.oup.com/imamci"> IMA Journal of Mathematical Control and Information.
+
+Previously, from 2020 to 2025, I was an Assistant Professor of Financial Engineering in the Department of Decision Sciences at HEC Montréal (business school of University of Montreal), where I was granted tenure. I served as the academic director of the <a href="https://www.hec.ca/en/programs/masters/master-financial-engineering/"> MSc program in financial engineering</a> at HEC, between 2021-2025. </a>. </p> 
   
 <p>Before joining HEC Montréal, I was a postdoctoral fellow in the Department of Statistical Sciences at the University of Toronto, Canada, between 2018-2020, where I worked with <a href="http://sebastian.statistics.utoronto.ca/"> Sebastian Jaimungal</a> in the mathematical finance program. I was also a PhD exchange student in the same program during Fall 2017.  I completed my PhD in electrical engineering under the supervision of <a href="http://www.cim.mcgill.ca/~peterc/"> Peter E. Caines</a> in the systems & control program at McGill University, Canada, in 2019. I received my MSc degree from Sharif University of Technology, Iran, in 2011, and my BSc degree from Shiraz University, Iran, in 2009, both in electrical engineering- systems & control.</p>
   
