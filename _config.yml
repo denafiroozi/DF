@@ -84,15 +84,15 @@ author:
   avatar           : "profile.png"
   bio              : |
                       Assistant Professor <br>
-                      Department of Decision Sciences <br>
-                      HEC Montréal - Université de Montréal <br>                     
+                      Department of Statistical Sciences <br>
+                      University of Toronto <br>                     
   bio2             : <br>
   bio3             : 
-  location         : "Montreal, Canada"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=weHKFEYAAAAJ&hl=en"
-  email            : "dena[dot]firoozi[at]hec[dot]ca"
+  email            : "dena[dot]firoozi[at]utoronto[dot]ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
