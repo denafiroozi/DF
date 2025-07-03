@@ -31,7 +31,7 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> Rinel Foguen Tchuendom, Dena Firoozi and Michèle Breton, Ranking Quantilized Mean-Field Games with an Application to Early-Stage Venture Investments, available on <a href="https://arxiv.org/abs/2507.00853"> arXiv</a>, 2024</p>
+<p> Rinel Foguen Tchuendom, Dena Firoozi and Michèle Breton, Ranking Quantilized Mean-Field Games with an Application to Early-Stage Venture Investments, available on <a href="https://arxiv.org/abs/2507.00853"> arXiv</a>, 2025</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> Xin Yue Ren and Dena Firoozi, Risk-Sensitive Mean Field Games with Common Noise: A Theoretical Study with Applications to Interbank Markets, available on <a href="https://arxiv.org/abs/2403.03915"> arXiv</a>, 2024</p>
