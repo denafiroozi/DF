@@ -44,7 +44,7 @@ author_profile: true
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> 19. Hanchao Liu and Dena Firoozi, Hilbert Space-Valued LQ Mean Field Games: An Infinite-Dimensional Analysis, (to appear) SIAM Journal on Control and Optimization (SICON), 2025. <a href="https://arxiv.org/abs/2403.01012">[arXiv]</a> </p>
+<p> 19. Hanchao Liu and Dena Firoozi, Hilbert Space-Valued LQ Mean Field Games: An Infinite-Dimensional Analysis, SIAM Journal on Control and Optimization (SICON), vol. 63, no. 5, pp. 3297-3327, 2025. <a href="https://epubs.siam.org/doi/10.1137/23M1595734">[article]</a> <a href="https://arxiv.org/abs/2403.01012">[arXiv]</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 18. Hanchao Liu, Dena Firoozi, Michèle Breton, LQG Risk-Sensitive Single-Agent and Major-Minor Mean-Field Game Systems: A Variational Framework, SIAM Journal on Control and Optimization (SICON), vol. 63, no. 4, pp. 2251-2281, 2025. <a href="https://epubs.siam.org/doi/10.1137/23M1595734">[article]</a> <a href="https://arxiv.org/abs/2305.15364"> [arXiv]</a></p>
