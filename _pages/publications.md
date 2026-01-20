@@ -31,7 +31,10 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> Dena Firoozi, Anastasis Kratsiosand and Xuwei Yang, Simultaneously Solving Infinitely Many LQ Mean Field Games In Hilbert Spaces: The Power of Neural Operators, available on <a href="https://arxiv.org/abs/2510.20017"> arXiv</a>, 2025</p>
+<p> Hanchao Liu and Dena Firoozi, LQ Mean Field Games with Common Noise in Hilbert Spaces: Small and Arbitrary Finite Time Horizons, available on <a href="">[arXiv]</a> </p>
+<p style="margin-bottom:-0.3cm;">    </p>
+
+<p> Dena Firoozi, Anastasis Kratsios and Xuwei Yang, Simultaneously Solving Infinitely Many LQ Mean Field Games In Hilbert Spaces: The Power of Neural Operators, available on <a href="https://arxiv.org/abs/2510.20017"> arXiv</a>, 2025</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> Rinel Foguen Tchuendom, Dena Firoozi and Michèle Breton, Ranking Quantilized Mean-Field Games with an Application to Early-Stage Venture Investments, available on <a href="https://arxiv.org/abs/2507.00853"> arXiv</a>, 2025</p>
