@@ -31,7 +31,7 @@ author_profile: true
 <b> <font size="+1.5"> Under-Review Papers & Preprints  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
 
-<p> Hanchao Liu and Dena Firoozi, LQ Mean Field Games with Common Noise in Hilbert Spaces: Small and Arbitrary Finite Time Horizons, available on <a href="">[arXiv]</a> </p>
+<p> Hanchao Liu and Dena Firoozi, Infinite-Dimensional LQ Mean Field Games with Common Noise: Small and Arbitrary Finite Time Horizons, available on <a href="https://arxiv.org/abs/2601.13493">[arXiv]</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
 <p> Dena Firoozi, Anastasis Kratsios and Xuwei Yang, Simultaneously Solving Infinitely Many LQ Mean Field Games In Hilbert Spaces: The Power of Neural Operators, available on <a href="https://arxiv.org/abs/2510.20017"> arXiv</a>, 2025</p>
