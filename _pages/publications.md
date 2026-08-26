@@ -40,9 +40,6 @@ author_profile: true
 <p> Dena Firoozi, Anastasis Kratsios and Xuwei Yang, Simultaneously Solving Infinitely Many LQ Mean Field Games In Hilbert Spaces: The Power of Neural Operators, available on <a href="https://arxiv.org/abs/2510.20017"> arXiv</a>, 2025</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
-<p> Rinel Foguen Tchuendom, Dena Firoozi and Michèle Breton, Ranking Quantilized Mean-Field Games with an Application to Early-Stage Venture Investments, available on <a href="https://arxiv.org/abs/2507.00853"> arXiv</a>, 2025</p>
-<p style="margin-bottom:-0.3cm;">    </p>
-
 <p> Xin Yue Ren and Dena Firoozi, Risk-Sensitive Mean Field Games with Common Noise: A Theoretical Study with Applications to Interbank Markets, available on <a href="https://arxiv.org/abs/2403.03915"> arXiv</a>, 2024</p>
 <p style="margin-bottom:-0.3cm;">    </p>
 
@@ -52,6 +49,9 @@ author_profile: true
 <p style="margin-bottom:1cm;">    </p>
 <b> <font size="+1.5"> Peer-Reviewed Journal Papers  </font></b>
 <p style="margin-bottom:0.5cm;">    </p>
+
+<p> 20. Rinel Foguen Tchuendom, Dena Firoozi and Michèle Breton, Ranking Quantilized Mean-Field Games with an Application to Early-Stage Venture Investments, (to appear) SIAM Journal on Financial Mathematics (SIFIN), available on <a href="https://arxiv.org/abs/2507.00853"> arXiv</a>, 2025</p>
+<p style="margin-bottom:-0.3cm;">    </p>
 
 <p> 19. Hanchao Liu and Dena Firoozi, Hilbert Space-Valued LQ Mean Field Games: An Infinite-Dimensional Analysis, SIAM Journal on Control and Optimization (SICON), vol. 63, no. 5, pp. 3297-3327, 2025. <a href="https://doi.org/10.1137/24M1675096">[article]</a> <a href="https://arxiv.org/abs/2403.01012">[arXiv]</a> </p>
 <p style="margin-bottom:-0.3cm;">    </p>
